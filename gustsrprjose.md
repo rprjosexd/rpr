@@ -1,7 +1,7 @@
 # ¿Que fa rprjose?
 En aquesta pagina os mostrare tot el que fa el streamer rprjose, i les coses que fa hi ha jocs també programació i diverses coses més!!!
 
-![Imatge de rprjose](rprjose.jpeg)
+![Imatge de rprjose](Imatges/rprjose.jpeg)
 
 
 # Battle Guys
