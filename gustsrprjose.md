@@ -14,7 +14,7 @@ Aquestes son les armes que millor li dan a rprjose
 - La escopeta corredera (Escopeta)
 - P90 (Subfusil)
 
-![imatge](https://github.com/user-attachments/assets/da96a58f-ab64-40db-b058-7b73d01cab9d)
+![imatge](battleguys.jpeg)
 
 
 # Roblox Studio
