@@ -2,4 +2,4 @@
 
 
 # 1. ![Tik tok](https://www.tiktok.com/@rprjose)
-# 2. ![Youtube](youtube rprjose)
+# 2. ![Imatge de rprjose](Imatges/rprjose.jpeg)
