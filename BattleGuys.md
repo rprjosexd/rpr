@@ -12,9 +12,14 @@ Aquestes son les armes que li agraden a rprjose
 
 ![](Imatges/skinbg.jpeg)
 
-Es un pollastre i es molt bonic, i tambe els seve grafics m'agradan molt, els meus amics em diuen que hem semblo a ell per que solt mols gallos, per que me esta canviant la veu 
+Es un pollastre i es molt bonic, i tambe els seves grafics m'agradan molt, els meus amics em diuen que hem semblo a ell per que solt mols gallos, per que me esta canviant la veu 
 
 
+
+# rprjose te el nombre azul
+
+
+De moment es tot el que tinc, 
 ![imatge](Imatges/battleguys.jpeg)
 
 
