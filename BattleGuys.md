@@ -10,7 +10,7 @@ Aquestes son les armes que li agraden a rprjose
 
 Els personatjes que més le agraden 
 
-![imatge](Imatges/Skinbg.jpeg)
+![](Imatges/skinbg.jpeg)
 
 
 
