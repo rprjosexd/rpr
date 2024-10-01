@@ -14,7 +14,7 @@ Els personatjes que més le agraden
 
 
 
-![imatge](Imatges/skinbg.jpeg)
+![imatge](Imatges/battleguys.jpeg)
 
 
 
